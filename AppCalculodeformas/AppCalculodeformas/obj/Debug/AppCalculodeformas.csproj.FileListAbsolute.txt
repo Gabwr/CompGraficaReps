@@ -1,0 +1,10 @@
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\bin\Debug\AppCalculodeformas.exe.config
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\bin\Debug\AppCalculodeformas.exe
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\bin\Debug\AppCalculodeformas.pdb
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.csproj.AssemblyReference.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.FormCalculoArea.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.Properties.Resources.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.csproj.GenerateResource.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.csproj.CoreCompileInputs.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.exe
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\AppCalculodeformas\AppCalculodeformas\obj\Debug\AppCalculodeformas.pdb
