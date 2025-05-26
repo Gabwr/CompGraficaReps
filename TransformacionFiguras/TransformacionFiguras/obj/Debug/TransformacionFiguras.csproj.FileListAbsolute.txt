@@ -1,0 +1,14 @@
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\bin\Debug\TransformacionFiguras.exe.config
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\bin\Debug\TransformacionFiguras.exe
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\bin\Debug\TransformacionFiguras.pdb
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.csproj.AssemblyReference.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Form1.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Properties.Resources.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.csproj.GenerateResource.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.csproj.CoreCompileInputs.cache
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.exe
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.pdb
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Formpentagono.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Formrombo.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Formromboide.resources
+C:\Users\gmlop\Desktop\ESPE\Computacion Grafica\Unidad1\TransformacionFiguras\TransformacionFiguras\obj\Debug\TransformacionFiguras.Formtrapezoide.resources
